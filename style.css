@@ -650,7 +650,7 @@ body {
     font-size: 15px;
 }
 
-@media (max-width:500px) {
+@media (max-width:425px) {
     #nav {
         width: 100%;
 
