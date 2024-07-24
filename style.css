@@ -166,7 +166,7 @@ body {
     height: 50px;
 }
 
-#scroll {
+#scroll-cont {
     height: 40vh;
     width: 100%;
     /* background-color: red; */
@@ -215,8 +215,8 @@ body {
     align-items: center;
     justify-content: center;
     gap: 2vw;
-    border-top: 2px solid black;
-    border-bottom: 2px solid black;
+    /* border-top: 2px solid black;
+    border-bottom: 2px solid black; */
     padding: 3vh;
 }
 
@@ -750,6 +750,7 @@ body {
         border-top: 2px solid black;
         border-bottom: 2px solid black;
     }
+
 
     #scroll #container {
         display: inline-block;
